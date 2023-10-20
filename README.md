@@ -1,5 +1,5 @@
 # Co
-A fork of RCO without the FPS Unlocker. Did this to save battery power.
+A skid of RCO without the FPS Unlocker. Did this to save battery power.
 Mac only. You can still use on Windows by downloading ClientAppSettings.json and following some random youtuber's steps. As for Linux, good luck running roblox in general ;(
 
 ## before installing
